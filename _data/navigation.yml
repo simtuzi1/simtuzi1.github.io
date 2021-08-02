@@ -1,0 +1,16 @@
+# main links
+main:
+  #########################
+  # - title: "Tietoa"     #
+  #   url: /about/        #
+  # - title: "Portofolio" #
+  #   url: about          #
+  #########################
+  - title: "Postit"
+    url: /postit/postit
+  ###############################
+  # - title: "Hinnasto"         #
+  #   url: /collection-archive/ #
+  # - title: "Sitemap"          #
+  #   url: /sitemap/            #
+  ###############################
